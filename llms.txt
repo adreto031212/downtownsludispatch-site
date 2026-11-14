@@ -1,0 +1,19 @@
+# Downtown & South Lake Union Dispatch
+
+> The Downtown & South Lake Union Dispatch is a free weekly email newsletter about Seattle, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Downtown & South Lake Union](https://www.downtownsludispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.downtownsludispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.downtownsludispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Belltown](https://www.downtownsludispatch.com/belltown/): Between Pike Place Market and Denny Way along First, Second and Third Avenues, with Olympic Sculpture Park, Bell Street Park and the Elliott Bay waterfront.
+- [Pike Place Market](https://www.downtownsludispatch.com/pike-place-market/): The market blocks on Pike Place and Western Avenue above the Pike Street Hillclimb, with Victor Steinbrueck Park and the new Overlook Walk down to the waterfront.
+- [Downtown / Commercial Core](https://www.downtownsludispatch.com/downtown/): The office and shopping core from Pike Street to Columbia Street, with Westlake Park, the Central Library, Benaroya Hall and the Seattle Art Museum.
+- [Denny Triangle](https://www.downtownsludispatch.com/denny-triangle/): The blocks between Westlake Avenue, Denny Way and Interstate 5, with the Spheres, the Westlake Avenue streetcar line and the Seattle Convention Center's Summit building.
+- [South Lake Union](https://www.downtownsludispatch.com/south-lake-union/): North of Denny Way to the south shore of Lake Union, with Lake Union Park, the Museum of History & Industry, Cascade Playground and the South Lake Union Streetcar on Westlake Avenue North.
+- [Pioneer Square](https://www.downtownsludispatch.com/pioneer-square/): The city's first blocks around First Avenue and Yesler Way, with Occidental Square, the Pioneer Square pergola and King Street Station, a few blocks from the stadiums.
+- [International District / Chinatown](https://www.downtownsludispatch.com/international-district/): South Jackson and South King Streets around Hing Hay Park, with the Wing Luke Museum, the Chinatown Gate and the First Hill Streetcar.
+- [First Hill](https://www.downtownsludispatch.com/first-hill/): The hill above downtown along Madison Street, Boren Avenue and Broadway, above Freeway Park, with the Frye Art Museum, St. James Cathedral and the Madison Street RapidRide G Line.
+- [Yesler Terrace](https://www.downtownsludispatch.com/yesler-terrace/): The slope east of Interstate 5 along Yesler Way, with Yesler Terrace Park and views west over the city and Elliott Bay.
